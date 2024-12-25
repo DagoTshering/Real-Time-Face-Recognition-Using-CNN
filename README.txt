@@ -8,7 +8,7 @@ The Model is trained on face image of five famous people.
 Setup Instructions
 
 Step 1: Clone the Repository
-git clone https://github.com/DagoTshering/realtime-face-recognition.git
+git clone https://github.com/DagoTshering/Real-Time-Face-Recognition-Using-CNN.git
 cd realtime-face-recognition
 
 Step 2: Create a Virtual Environment
@@ -41,6 +41,6 @@ Third run  03_faceRecognition.py
 Fourth run 04_facePrediction.py
 
 Acknowledgments
-Thanks to the open-source community for tools like TensorFlow and OpenCV, making this project possible.
+Thanks to the open-source community for tools like TensorFlow and OpenCV, Kaggel for the datasets, making this project possible.
 
 Enjoy exploring face recognition! 😊
